@@ -7,7 +7,7 @@ import pair1top from "../../assets/pair1top.png";
 import rectangle from "../../assets/Rectangle 2.png";
 import { FaStar } from "react-icons/fa";
 import { Link } from "react-scroll";
-import cardImage from '../../assets/cardImage.png'
+// import cardImage from '../../assets/cardImage.png'
 const Home = () => {
   return (
     <div className="">
@@ -279,7 +279,7 @@ const Home = () => {
                 </p>
 
                 <div>
-                  <img src={cardImage} alt="" />
+                  {/* <img src={cardImage} alt="" /> */}
                 </div>
                 
 
